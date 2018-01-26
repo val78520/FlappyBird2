@@ -1,0 +1,30 @@
+#zone
+{
+	width: 400px;
+	height: 600px;
+	background-image: url(background.png);
+	background-size: 400px 600px;
+	background-repeat: no-repeat;
+	display: flex;    
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+
+}
+
+body
+{
+	height: 720px;
+	display: flex;    
+	align-items: center;
+	justify-content: center;
+
+}
+
+
+#bird
+{
+	width: 50px;
+
+	
+}
